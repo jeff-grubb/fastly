@@ -1,0 +1,5 @@
+.terraform*
+.idea
+env.sh
+terraform.tfstate
+terraform.tfstate.backup
